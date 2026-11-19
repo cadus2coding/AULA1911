@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  background-color: #eef4f8;
+}
+
+.cartao {
+  width: 420px;
+  padding: 32px;
+  text-align: center;
+  background-color: #880808;
+  border: 3px solid #FFC0CB;
+  border-radius: 16px;
+}
+
+button {
+  padding: 12px 22px;
+  color: white;
+  background-color: #FFC0CB;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.destaque {
+  background-color: #880808;
+  border-color: #FFC0CB;
+}
